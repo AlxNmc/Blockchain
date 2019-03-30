@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<blockRecord>
+    <BUUID>cc03c228-ac5e-47c4-ae0b-cd2fb2f83139</BUUID>
+    <bpID>2</bpID>
+    <EFirst>Joe</EFirst>
+    <ELast>DiMaggio</ELast>
+    <FDOB>1914.11.25</FDOB>
+    <FSS>111-22-3333</FSS>
+    <GCondition>SoreKnees</GCondition>
+    <GTreatment>RestFromSports</GTreatment>
+    <HRx>Aspirin</HRx>
+</blockRecord>
